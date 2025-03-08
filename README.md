@@ -68,5 +68,5 @@ print(): For displaying output to the console.
 
 #OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/4983e6c7-5c4d-4eb2-94f6-cfff53879fa3)
 
